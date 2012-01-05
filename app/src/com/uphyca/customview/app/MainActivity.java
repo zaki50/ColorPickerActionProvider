@@ -16,7 +16,9 @@
  * limitations under the License.
  */
 
-package com.uphyca.customview;
+package com.uphyca.customview.app;
+
+import com.uphyca.customview.HsvColorActionProvider;
 
 import android.app.Activity;
 import android.graphics.Color;
